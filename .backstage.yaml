@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: this-is-a-test
-  description: Strawhat Pirates Captains! 
+  description: Strawhat Pirates! 
 spec:
   type: application
   lifecycle: production
