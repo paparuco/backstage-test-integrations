@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: backstage-demo-wacs-catalog-location
+  description: Central location of all entities in the backstage-demo-wacs-system-catalog (systems, resources, and components)
+spec:
+  type: url
+  targets:
+    - .backstage.yaml
+    - test.yaml
