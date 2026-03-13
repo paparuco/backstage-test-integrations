@@ -6,3 +6,4 @@ metadata:
 spec:
   type: application
   lifecycle: production
+  owner: group:default/experience
