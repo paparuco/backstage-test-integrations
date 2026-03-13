@@ -7,4 +7,3 @@ spec:
   type: db
   owner: group:default/smiths
   lifecycle: production
-  system: galaxy
