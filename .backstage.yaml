@@ -3,10 +3,6 @@ kind: Component
 metadata:
   name: this-is-a-test-wheeeeee-whoooooo
   description: Strawhat Pirates Captains! 
-  links:
-    - url: abola.pt
-      title: futebols
-      icon: dashboard
 spec:
   type: application
   lifecycle: production
