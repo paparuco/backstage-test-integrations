@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Monkey D. Luffy
+  description: Strawhat Pirates Captain
+  links:
+    - url: abola.pt
+      title: futebol
+      icon: dashboard
+spec:
+  type: application
+  lifecycle: production
