@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Resource
+metadata:
+  name: pickle-rick
+  description: This is a Pickle Rick in Local Dev
+spec:
+  type: db
+  owner: group:default/smiths
+  lifecycle: production
+  system: galaxy
