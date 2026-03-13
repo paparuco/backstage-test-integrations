@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: Monkey D. Luffys
-  description: Strawhat Pirates Captain
+  description: Strawhat Pirates Captainsad
   links:
     - url: abola.pt
       title: futebol
