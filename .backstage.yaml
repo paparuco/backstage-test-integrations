@@ -5,7 +5,7 @@ metadata:
   description: Strawhat Pirates Captains! 
   links:
     - url: abola.pt
-      title: futebol
+      title: futebols
       icon: dashboard
 spec:
   type: application
