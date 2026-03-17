@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: locations-tests-2
+  description: This is a description
+spec:
+  type: url
+  targets:
+    - .backstage.yaml
+    - .backstage/test.yaml
