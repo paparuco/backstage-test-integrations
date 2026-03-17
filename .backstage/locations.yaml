@@ -7,5 +7,5 @@ spec:
   type: url
   targets:
     - .backstage.yaml
-    - .backstage/test.yaml
-    - .backstage/test2.yaml
+    - ./.backstage/test.yaml
+    - ./.backstage/test2.yaml
