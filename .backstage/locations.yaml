@@ -6,6 +6,5 @@ metadata:
 spec:
   type: url
   targets:
-    - .backstage.yaml
-    - ./.backstage/test.yaml
-    - ./.backstage/test2.yaml
+    - test.yaml
+    - test2.yaml
