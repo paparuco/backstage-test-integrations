@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: this-is-a-testerino
+  name: we-are
   description: Strawhat Pirates! 
 spec:
   type: application
