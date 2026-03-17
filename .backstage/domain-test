@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: sale
+  title: The Sales
+  description: |
+    It is sales
+  labels:
+    this: test
+    will: be
+    what: awesome
+  annotations:
+    backstage.io/techdocs-ref: dir:../..
+spec:
+  owner: group:contributors
