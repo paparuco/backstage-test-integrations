@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: we-are-v2
+  description: Strawhat Pirates! 
+spec:
+  type: application
+  lifecycle: production
+  owner: group:default/experience
